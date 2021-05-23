@@ -4,15 +4,15 @@ Date : 4/5/21
 Description: A script that runs multiple sequence alignment on sequence obtained based on imported list of accession
 number from excel file.
 
-Incorporates Modules coded by Mikael Boden (Email:m.boden@uq.edu.au):
+Incorporates Modules coded by Associate Professor Mikael Boden at the University of Queensland (Email:m.boden@uq.edu.au):
 sym: Alphabet setting.
 prob: Probabilities setting. (depending on sym)
 
-Incorporates Classes coded by Mikael Boden (Email:m.boden@uq.edu.au):
+Incorporates Classes coded by Associate Professor Mikael Boden at the University of Queensland (Email:m.boden@uq.edu.au):
 Sequence: Defines a sequence.
 Alignment: Defines a multiple sequence alignment.
 
-Incorporates Methods designed by Mikael Boden (Email:m.boden@uq.edu.au) to load and run relative files (FASTA),
+Incorporates Methods designed by Associate Professor Mikael Boden at the University of Queensland (Email:m.boden@uq.edu.au) to load and run relative files (FASTA),
 and to retrieve data from web services (GenBank and ClustalW 2 alignment)
 """
 
