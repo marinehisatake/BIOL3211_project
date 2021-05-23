@@ -1,2 +1,4 @@
 # BIOL3211_project
-This contains some scripts I have coded and used for BIOL3211 Student Project 2021. 
+This contains the Python and R scripts I have used for BIOL3211 Student Project 2021.
+
+sym.py, webservice.py, prob.py, stats.py, sequence.py were coded by Associate Professor Mikael Boden at the University of Queensland, and provided during SCIE2100 Introduction to Bioinformatics. 
